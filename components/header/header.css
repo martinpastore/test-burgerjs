@@ -1,0 +1,18 @@
+.header {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+}
+
+.top-bar {
+}
+
+@media screen and (max-width: 40em) {
+    .top-bar {
+        display: none;
+    }
+}
+
+.header__image {
+    width: 5%;
+}

@@ -1,0 +1,20 @@
+.hide {
+    display: none;
+}
+
+.container {
+    padding: 4rem 0;
+    min-width: 100%;
+    min-height: 40em;
+}
+.container__panels-container {
+    padding: 1rem 0;
+}
+.container__panels-container-element {
+    margin: 0 4%;
+}
+
+.container__panels-container-element div {
+    border: none;
+    border-radius: 10px;
+}
