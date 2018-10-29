@@ -1,6 +1,9 @@
 {
   "scripts": [
-
+    "jquery-elweon.js"
+  ],
+  "styles": [
+    "app.css"
   ],
   "pages": "pages",
   "components": "components",
