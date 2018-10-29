@@ -1,11 +1,13 @@
 {
   "scripts": [
-    "jquery-elweon.js"
+    "jquery.js",
+    "what-input.js",
+    "foundation.js"
   ],
   "styles": [
+    "foundation.css",
     "app.css"
   ],
   "pages": "pages",
-  "components": "components",
-  "hasFoundation": "yes"
+  "components": "components"
 }
