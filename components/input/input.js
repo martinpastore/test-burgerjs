@@ -25,4 +25,5 @@ submit = function(text) {
 
 render = function(html) {
     document.getElementById(`panels`).innerHTML += html;
+    document.getElementById('quote').value = '';
 };
