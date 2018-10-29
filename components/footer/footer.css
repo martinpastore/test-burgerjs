@@ -17,6 +17,10 @@
 
 }
 
+.footer__item .badge {
+    padding: .5rem;
+}
+
 @media screen and (min-width: 40em) {
     .footer__item-logo {
         width: 25%;

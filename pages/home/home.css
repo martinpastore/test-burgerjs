@@ -5,7 +5,7 @@
 .container {
     padding: 4rem 0;
     min-width: 100%;
-    min-height: 40em;
+    min-height: 100%;
 }
 .container__panels-container {
     padding: 1rem 0;
