@@ -5,6 +5,7 @@
     "foundation.js"
   ],
   "styles": [
+    "foundation-icons.css",
     "foundation.css",
     "app.css"
   ],
