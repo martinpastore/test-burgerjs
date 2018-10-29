@@ -1,0 +1,8 @@
+{
+  "scripts": [
+
+  ],
+  "pages": "pages",
+  "components": "components",
+  "hasFoundation": "yes"
+}
