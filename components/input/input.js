@@ -9,7 +9,7 @@ submit = function(text) {
     let count = 0;
     for (let i in this.quotes) {
         if (i >= this.c) {
-            this.render(`<div class="large-3 columns container__panels-container-element">
+            this.render(`<div class="large-3 small-3 medium-3 columns container__panels-container-element">
             <div class="callout large primary" data-closable="slide-out-up">
                 <p>${this.quotes[i]}</p>
                 <button class="close-button" aria-label="Dismiss alert" type="button" data-close>
