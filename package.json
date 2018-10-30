@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "burgerjs": "0.0.17"
+    "burgerjs": "0.0.29",
+    "cssmin": "^0.4.3",
+    "html-minifier": "^3.5.21",
+    "uglify-es": "^3.3.9",
+    "yuicompressor": "^2.4.8"
   }
 }
