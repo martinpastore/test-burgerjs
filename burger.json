@@ -1,4 +1,5 @@
 {
+  "title": "BurgerJS - Test SPA",
   "scripts": [
     "jquery.js",
     "what-input.js",
