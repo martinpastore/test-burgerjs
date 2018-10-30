@@ -7,6 +7,10 @@
 .top-bar {
 }
 
+.top-bar-left {
+    width: 20%;
+}
+
 @media screen and (max-width: 40em) {
     .top-bar {
         display: none;
