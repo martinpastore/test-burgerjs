@@ -7,6 +7,11 @@
     min-width: 100%;
     min-height: 100%;
 }
+
+.container__panels {
+
+}
+
 .container__panels-container {
     padding: 1rem 0;
 }
