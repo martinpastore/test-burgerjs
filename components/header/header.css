@@ -4,11 +4,21 @@
     width: 100%;
 }
 
-.top-bar {
+.top-bar{
+    background-color: #4684ee;
+    background-image: linear-gradient(to right, #4684ee, #468488);
+}
+
+.top-bar ul{
+    background-color: transparent;
 }
 
 .top-bar-left {
     width: 20%;
+}
+
+.top-bar-right a{
+    color: white;
 }
 
 @media screen and (max-width: 40em) {
