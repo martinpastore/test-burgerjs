@@ -21,6 +21,10 @@
     padding: .5rem;
 }
 
+.footer__item .powered {
+    color: #0c3d5d;
+}
+
 @media screen and (min-width: 40em) {
     .footer__item-logo {
         width: 25%;
