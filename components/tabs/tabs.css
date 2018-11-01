@@ -1,0 +1,55 @@
+.tabs {
+}
+
+.image-container {
+    position: relative;
+    padding: 0;
+}
+
+.tabs .is-active{
+    border-bottom: 1px solid #4864ee;
+}
+
+.tabs .is-active:after {
+    content: '';
+    position: absolute;
+    margin: 0 1.6rem;
+    width: 0;
+    height: 0;
+    border-top: solid 10px #4864ee;
+    border-left: solid 10px transparent;
+    border-right: solid 10px transparent;
+}
+
+.image {
+    position: absolute;
+    top: 0;
+    width: auto;
+    margin: 3rem 2rem;
+}
+
+.image .thumbnail{
+    width: 90%;
+    border: none;
+}
+
+.image .title{
+    color: white;
+    font-weight: bold;
+}
+
+.background {
+    z-index: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.blur {
+    filter: blur(5px);
+}
+
+.description {
+    color: white;
+}

@@ -2,3 +2,9 @@
     border: none;
     margin: 1rem 15% 0 15%;
 }
+
+.input-group-label{
+    background-color: #4684ee;
+    background-image: linear-gradient(#4684ee, #468488);
+    color: white;
+}
