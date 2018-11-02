@@ -4,6 +4,10 @@
     height: 100%;
 }
 
-.suggestions__container {
+.suggestions__container{
+    margin-bottom: 4rem;
+}
+
+.suggestions__container-tabs {
     margin: 0 15%;
 }
