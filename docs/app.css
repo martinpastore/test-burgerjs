@@ -1,6 +1,6 @@
 @font-face {
     font-family: flight;
-    src: url('../assets/fonts/another_flight.otf');
+    src: url('./assets/fonts/another_flight.otf');
 }
 
 html, body {
